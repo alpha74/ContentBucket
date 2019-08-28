@@ -21,10 +21,27 @@
 - Gathered around 20 GB of resources and content in 15 days.
 - Almost 25% of students signed up in first 20 days.
 
+---
+
 ## Screenshots(of Dev phase):
 
 1. Home Page:
+
 ![Home Page](https://github.com/alpha74/ContentBucket/blob/master/screenshots/home_page.png)
 
+2. Login Page:
+
+![Home Page](https://github.com/alpha74/ContentBucket/blob/master/screenshots/login_page.png)
+
+3. Signup Page:
+
+![Home Page](https://github.com/alpha74/ContentBucket/blob/master/screenshots/signup_page.png)
+
+4. Portal Home page:
+
+![Home Page](https://github.com/alpha74/ContentBucket/blob/master/screenshots/portal_home_page.png)
+
+
 ---
+
 - For any queries contact though mail.
