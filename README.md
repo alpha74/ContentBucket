@@ -21,5 +21,5 @@
 - Gathered around 20 GB of resources and content in 15 days.
 - Almost 25% of students signed up in first 20 days.
 
-
+---
 - For any queries contact though mail.
