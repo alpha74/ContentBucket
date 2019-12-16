@@ -1,6 +1,6 @@
 # ContentBucket
 
-![Live Website](https://bluebarrel.000webhostapp.com/contentbucket)
+[Live Website](https://bluebarrel.000webhostapp.com/contentbucket/)
 
 ### Features:
 - Content sharing web application. Highly useful for students proceeding to new semesters.
