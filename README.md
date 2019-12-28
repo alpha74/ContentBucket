@@ -1,7 +1,7 @@
 # ContentBucket
 
-[Live Website](https://bluebarrel.000webhostapp.com/contentbucket/)
-[Get Login credentials](https://docs.google.com/forms/d/e/1FAIpQLScZY_LVShl0eI-Vn-kqNFQ9DZ7-7nPJCgRjScf6L_-ByPR8wA/viewform?usp=sf_link)
+- [Live Website](https://bluebarrel.000webhostapp.com/contentbucket/)
+- [Get Login credentials](https://docs.google.com/forms/d/e/1FAIpQLScZY_LVShl0eI-Vn-kqNFQ9DZ7-7nPJCgRjScf6L_-ByPR8wA/viewform?usp=sf_link)
 
 ### Features:
 - Content sharing web application. Highly useful for students proceeding to new semesters.
